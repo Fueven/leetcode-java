@@ -16,3 +16,5 @@
 8.[Delete duplicate items in sorted](1-100/8.Deleteduplicateitemsinsortedarray.md)
 
 9.[RemoveElement](1-100/9.RemoveElement.md)
+
+10.[Strstr()](1-100/10.Anotherwayofstrstr().md)
