@@ -18,3 +18,5 @@
 9.[RemoveElement](1-100/9.RemoveElement.md)
 
 10.[Strstr()](1-100/10.Anotherwayofstrstr().md)
+
+11.[searchInsertPosition](1-100/11.searchInsertPosition.md)
