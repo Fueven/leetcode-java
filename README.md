@@ -22,3 +22,5 @@
 11.[searchInsertPosition](1-100/11.searchInsertPosition.md)
 
 12.[count and say](1-100/12.countandsay.md)
+
+13.[maximum subarray.md](1-100/13.maximum subarray.md)
