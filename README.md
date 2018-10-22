@@ -23,4 +23,6 @@
 
 12.[count and say](1-100/12.countandsay.md)
 
-13.[maximum subarray.md](1-100/13.maximum subarray.md)
+13.[maximum subarray](1-100/13.maximum subarray.md)
+
+14.[lengthoflastword](1-100/14.length-of-last-word.md)
