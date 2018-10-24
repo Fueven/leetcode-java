@@ -28,3 +28,5 @@
 14.[lengthoflastword](1-100/14.length-of-last-word.md)
 
 15.[plus-one](1-100/15.plus-one.md)
+
+16.[add-binary](1-100/16.add-binary.md)
