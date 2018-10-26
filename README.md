@@ -32,3 +32,5 @@
 16.[add-binary](1-100/16.add-binary.md)
 
 17.[Sqrtx](1-100/17.sqrtx.md)
+
+18.[climbing-stairs](1-100/18.climbing-stairs.mb)
