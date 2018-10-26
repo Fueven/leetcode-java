@@ -30,3 +30,5 @@
 15.[plus-one](1-100/15.plus-one.md)
 
 16.[add-binary](1-100/16.add-binary.md)
+
+17.[Sqrtx](1-100/17.sqrtx.md)
