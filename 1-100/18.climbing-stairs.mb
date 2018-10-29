@@ -1,0 +1,21 @@
+# 爬楼梯
+
+
+##自己的代码 
+
+```java
+class Solution {
+    public int climbStairs(int n) {
+        int n1 = 1;
+        int n2 = 0;
+        int tmp = 0;
+        for(int i=1; i<=n; i++) {
+            tmp = n1+n2;
+            n2 = n1;
+            n1 = tmp;
+        }
+        return tmp;
+    }
+}
+```
+###### 总结:这种简单的算法能不用递归就不要用,又慢又拖内存.很垃圾
