@@ -34,3 +34,7 @@
 17.[Sqrtx](1-100/17.sqrtx.md)
 
 18.[climbing-stairs](1-100/18.climbing-stairs.mb)
+
+19[remove-duplicates-from-sorted-list](1-100/19.remove-duplicates-from-sorted-list.md)
+
+20.[merge-sorted-array](1-100/20.merge-sorted-array.md)
