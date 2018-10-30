@@ -38,3 +38,5 @@
 19[remove-duplicates-from-sorted-list](1-100/19.remove-duplicates-from-sorted-list.md)
 
 20.[merge-sorted-array](1-100/20.merge-sorted-array.md)
+
+21.[same-tree](1-100/21.same-tree.md)
