@@ -40,3 +40,5 @@
 20.[merge-sorted-array](1-100/20.merge-sorted-array.md)
 
 21.[same-tree](1-100/21.same-tree.md)
+
+22.[symmetric-tree](1-100/22.symmetric-tree.md)
