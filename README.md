@@ -42,3 +42,5 @@
 21.[same-tree](1-100/21.same-tree.md)
 
 22.[symmetric-tree](1-100/22.symmetric-tree.md)
+
+23.[maximum-depth-of-binary-tree](1-100/23.maximum-depth-of-binary-tree.md)
