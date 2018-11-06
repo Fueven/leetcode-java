@@ -48,3 +48,5 @@
 24.[binary-tree-level-order-traversal-ii](1-100/24.binary-tree-level-order-traversal-ii.md)
 
 25.[convert-sorted-array-to-binary-search-tree](1-100/25.convert-sorted-array-to-binary-search-tree.md)
+
+26.[balanced-binary-tree](1-100/26.balanced-binary-tree.md)
