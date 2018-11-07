@@ -50,3 +50,5 @@
 25.[convert-sorted-array-to-binary-search-tree](1-100/25.convert-sorted-array-to-binary-search-tree.md)
 
 26.[balanced-binary-tree](1-100/26.balanced-binary-tree.md)
+
+27.[minimum-depth-of-binary-tree](1-100/27.minimum-depth-of-binary-tree.md)
