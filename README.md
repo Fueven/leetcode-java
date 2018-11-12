@@ -56,3 +56,7 @@
 28.[path-sum](1-100/28.path-sum.md)
 
 29.[pascals-triangle](1-100/29.ascals-triangle.md)
+
+30.[pascals-triangle-ii](1-100/30.pascals-triangle-ii.md)
+
+31.[best-time-to-buy-and-sell-stock](1-100/31.best-time-to-buy-and-sell-stock.md)
