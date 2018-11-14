@@ -64,3 +64,5 @@
 32.[best-time-to-buy-and-sell-stock-ii](1-100/32.best-time-to-buy-and-sell-stock-ii.md)
 
 33.[valid-palindrome](1-100/33.valid-palindrome.md)
+
+34.[single-number](1-100/34.ingle-number.md)
