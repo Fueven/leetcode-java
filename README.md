@@ -72,3 +72,5 @@
 36.[min-stack.submissions](1-100/36.min-stack.submissions.md)
 
 37.[intersection-of-two-linked-lists](1-100/37.intersection-of-two-linked-lists.md)
+
+38.[two-sum-ii-input-array-is-sorted](1-100/38.two-sum-ii-input-array-is-sorted.md)
