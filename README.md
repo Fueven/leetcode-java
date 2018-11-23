@@ -76,3 +76,7 @@ c# 日常刷题
 38.[two-sum-ii-input-array-is-sorted](1-100/38.two-sum-ii-input-array-is-sorted.md)
 
 39.[excel-sheet-column-title](1-100/39.excel-sheet-column-title.md)
+
+40.[majority-element](1-100/40.majority-element.md)
+
+41.[excel-sheet-column-number]()
