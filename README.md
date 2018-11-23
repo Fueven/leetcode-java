@@ -79,4 +79,4 @@ c# 日常刷题
 
 40.[majority-element](1-100/40.majority-element.md)
 
-41.[excel-sheet-column-number]()
+41.[excel-sheet-column-number](1-100/41.excel-sheet-column-number.md)
