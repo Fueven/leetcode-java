@@ -82,3 +82,5 @@ c# 日常刷题
 41.[excel-sheet-column-number](1-100/41.excel-sheet-column-number.md)
 
 42.[factorial-trailing-zeroes](1-100/42.factorial-trailing-zeroes.md)
+
+43.[combine-two-tables](1-100/43.combine-two-tables.md)
