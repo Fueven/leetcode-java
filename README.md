@@ -85,4 +85,6 @@ c# 日常刷题
 
 43.[combine-two-tables](1-100/43.combine-two-tables.md)
 
-44.[](second-highest-salary)
+44.[second-highest-salary](1-100/44.second-highest-salary.md)
+
+45.[add-two-numbers](1-100/45.add-two-numbers.md)
