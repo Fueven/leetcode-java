@@ -88,3 +88,5 @@ c# 日常刷题
 44.[second-highest-salary](1-100/44.second-highest-salary.md)
 
 45.[add-two-numbers](1-100/45.add-two-numbers.md)
+
+46.[longest-substring-without-repeating-characters](1-100/46.longest-substring-without-repeating-characters.md)
