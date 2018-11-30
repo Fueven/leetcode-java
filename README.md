@@ -94,3 +94,5 @@ c# 日常刷题
 47.[median-of-two-sorted-arrays](1-100/47.median-of-two-sorted-arrays.md)
 
 48.[longest-palindromic-substring](1-100/48.longest-palindromic-substring.md)
+
+49.[zigzag-conversion](1-100/49.zigzag-conversion.md)
