@@ -96,3 +96,7 @@ c# 日常刷题
 48.[longest-palindromic-substring](1-100/48.longest-palindromic-substring.md)
 
 49.[zigzag-conversion](1-100/49.zigzag-conversion.md)
+
+50.[string-to-integer-atoi](1-100/50.string-to-integer-atoi.md)
+
+51.[regular-expression-matching](1-100/51.regular-expression-matching.md)
