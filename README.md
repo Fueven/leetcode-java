@@ -100,3 +100,5 @@ c# 日常刷题
 50.[string-to-integer-atoi](1-100/50.string-to-integer-atoi.md)
 
 51.[regular-expression-matching](1-100/51.regular-expression-matching.md)
+
+52.[employees-earning-more-than-their-managers](1-100/52.employees-earning-more-than-their-managers.md)
