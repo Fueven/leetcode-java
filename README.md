@@ -114,3 +114,5 @@ c# 日常刷题
 57.[letter-combinations-of-a-phone-number](1-100/57.letter-combinations-of-a-phone-number.md)
 
 58.[4sum](1-100/58.4sum.md)
+
+59.[generate-parentheses](1-100/59.generate-parentheses.md)
