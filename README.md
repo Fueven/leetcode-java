@@ -116,3 +116,5 @@ c# 日常刷题
 58.[4sum](1-100/58.4sum.md)
 
 59.[generate-parentheses](1-100/59.generate-parentheses.md)
+
+60.[merge-k-sorted-lists](1-100/60.merge-k-sorted-lists.md)
