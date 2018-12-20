@@ -120,3 +120,5 @@ c# 日常刷题
 60.[merge-k-sorted-lists](1-100/60.merge-k-sorted-lists.md)
 
 61.[swap-nodes-in-pairs](1-100/61.swap-nodes-in-pairs.md)
+
+62.[remove-nth-node-from-end-of-list](1-100/62.remove-nth-node-from-end-of-list.md)
