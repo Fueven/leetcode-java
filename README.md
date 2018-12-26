@@ -130,3 +130,5 @@ c# 日常刷题
 65.[duplicate-emails](1-100/65.duplicate-emails.md)
 
 66.[customers-who-never-order](1-100/66.customers-who-never-order.md)
+
+67.[substring-with-concatenation-of-all-words](1-100/67.substring-with-concatenation-of-all-words.md)
