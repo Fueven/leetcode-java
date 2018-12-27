@@ -132,3 +132,5 @@ c# 日常刷题
 66.[customers-who-never-order](1-100/66.customers-who-never-order.md)
 
 67.[substring-with-concatenation-of-all-words](1-100/67.substring-with-concatenation-of-all-words.md)
+
+68.[next-permutation](1-100/68.next-permutation.md)
