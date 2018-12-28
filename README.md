@@ -134,3 +134,5 @@ c# 日常刷题
 67.[substring-with-concatenation-of-all-words](1-100/67.substring-with-concatenation-of-all-words.md)
 
 68.[next-permutation](1-100/68.next-permutation.md)
+
+69.[longest-valid-parentheses](1-100/69.longest-valid-parentheses.md)
