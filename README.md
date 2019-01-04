@@ -138,3 +138,5 @@ c# 日常刷题
 69.[longest-valid-parentheses](1-100/69.longest-valid-parentheses.md)
 
 70.[search-in-rotated-sorted-array](1-100/70.search-in-rotated-sorted-array.md)
+
+71.[find-first-and-last-position-of-element-in-sorted-array](1-100/71.find-first-and-last-position-of-element-in-sorted-array.md)
