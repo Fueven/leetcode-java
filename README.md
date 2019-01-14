@@ -140,3 +140,5 @@ c# 日常刷题
 70.[search-in-rotated-sorted-array](1-100/70.search-in-rotated-sorted-array.md)
 
 71.[find-first-and-last-position-of-element-in-sorted-array](1-100/71.find-first-and-last-position-of-element-in-sorted-array.md)
+
+72.[valid-sudoku](1-100/72.valid-sudoku.md)
