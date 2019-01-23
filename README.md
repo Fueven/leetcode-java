@@ -142,3 +142,5 @@ c# 日常刷题
 71.[find-first-and-last-position-of-element-in-sorted-array](1-100/71.find-first-and-last-position-of-element-in-sorted-array.md)
 
 72.[valid-sudoku](1-100/72.valid-sudoku.md)
+
+73.[combination-su](1-100/73.combination-su.md)
