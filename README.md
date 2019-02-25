@@ -146,3 +146,5 @@ c# 日常刷题
 73.[combination-su](1-100/73.combination-su.md)
 
 74.[combination-sum-ii](1-100/74.combination-sum-ii.md)
+
+75.[first-missing-positive](1-100/75.first-missing-positive.md)
