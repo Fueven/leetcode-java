@@ -148,3 +148,5 @@ c# 日常刷题
 74.[combination-sum-ii](1-100/74.combination-sum-ii.md)
 
 75.[  first-missing-positive](1-100/75.first-missing-positive.md)
+
+76.[trapping-rain-water](1-100/76.trapping-rain-water.md)
