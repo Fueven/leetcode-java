@@ -150,3 +150,5 @@ c# 日常刷题
 75.[  first-missing-positive](1-100/75.first-missing-positive.md)
 
 76.[trapping-rain-water](1-100/76.trapping-rain-water.md)
+
+77.[multiply-strings](1-100/77.multiply-strings.md)
