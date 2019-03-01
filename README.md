@@ -154,3 +154,5 @@ c# 日常刷题
 77.[multiply-strings](1-100/77.multiply-strings.md)
 
 78.[wildcard-matching](1-100/78.wildcard-matching.md)
+
+79.[permutations](1-100/79.permutations.md)
