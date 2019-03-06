@@ -158,3 +158,5 @@ c# 日常刷题
 79.[permutations](1-100/79.permutations.md)
 
 80.[rotate-array](1-100/80.rotate-array.md)
+
+81.[reverse-bits](1-100/81.reverse-bits.md)
