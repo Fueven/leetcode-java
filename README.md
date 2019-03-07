@@ -160,3 +160,5 @@ c# 日常刷题
 80.[rotate-array](1-100/80.rotate-array.md)
 
 81.[reverse-bits](1-100/81.reverse-bits.md)
+
+82.[number-of-1-bits](1-100/82.number-of-1-bits.md)
