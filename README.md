@@ -164,3 +164,5 @@ c# 日常刷题
 82.[number-of-1-bits](1-100/82.number-of-1-bits.md)
 
 83.[rotate-image](1-100/83.rotate-image.md)
+
+84.[powx-n](1-100/84.powx-n.md)
