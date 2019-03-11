@@ -162,3 +162,5 @@ c# 日常刷题
 81.[reverse-bits](1-100/81.reverse-bits.md)
 
 82.[number-of-1-bits](1-100/82.number-of-1-bits.md)
+
+83.[rotate-image](1-100/83.rotate-image.md)
