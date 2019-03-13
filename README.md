@@ -168,3 +168,5 @@ c# 日常刷题
 84.[powx-n](1-100/84.powx-n.md)
 
 85.[spiral-matrix](1-100/85.spiral-matrix.md)
+
+86.[spiral-matrix-ii](1-100/86.spiral-matrix-ii.md)
