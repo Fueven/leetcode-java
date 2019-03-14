@@ -170,3 +170,5 @@ c# 日常刷题
 85.[spiral-matrix](1-100/85.spiral-matrix.md)
 
 86.[spiral-matrix-ii](1-100/86.spiral-matrix-ii.md)
+
+87.[merge-intervals](1-100/87.merge-intervals.md)
