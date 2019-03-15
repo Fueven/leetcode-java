@@ -174,3 +174,5 @@ c# 日常刷题
 87.[merge-intervals](1-100/87.merge-intervals.md)
 
 88.[permutation-sequence](1-100/88.permutation-sequence.md)
+
+89.[rotate-list](1-100/89.rotate-list.md)
