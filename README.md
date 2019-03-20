@@ -180,3 +180,5 @@ c# 日常刷题
 90.[unique-paths](1-100/90.unique-paths.md)
 
 91.[insert-interval](1-100/91.insert-interval.md)
+
+92.[unique-paths-ii](1-100/92.unique-paths-ii.md)
