@@ -184,3 +184,5 @@ c# 日常刷题
 92.[unique-paths-ii](1-100/92.unique-paths-ii.md)
 
 93.[minimum-path-sum](1-100/93.minimum-path-sum.md)
+
+94.[simplify-path](1-100/94.simplify-path.md)
