@@ -188,3 +188,5 @@ c# 日常刷题
 94.[simplify-path](1-100/94.simplify-path.md)
 
 95.[set-matrix-zeroes](1-100/95.set-matrix-zeroes.md)
+
+96.[search-a-2d-matrix](1-100/96.search-a-2d-matrix.md)
