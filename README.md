@@ -190,3 +190,5 @@ c# 日常刷题
 95.[set-matrix-zeroes](1-100/95.set-matrix-zeroes.md)
 
 96.[search-a-2d-matrix](1-100/96.search-a-2d-matrix.md)
+
+97.[sort-colors](1-100/97.sort-colors.md)
