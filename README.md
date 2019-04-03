@@ -196,3 +196,5 @@ c# 日常刷题
 98.[word-break](1-100/98.word-break.md)
 
 99.[subsets](1-100/99.subsets.md)
+
+100.[word-search](1-100/100.word-search.md)
