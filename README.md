@@ -198,3 +198,7 @@ c# 日常刷题
 99.[subsets](1-100/99.subsets.md)
 
 100.[word-search](1-100/100.word-search.md)
+
+101.[remove-duplicates-from-sorted-array-ii](101-200/101.remove-duplicates-from-sorted-array-ii.md)
+
+102.[search-in-rotated-sorted-array-ii](101-200/102.search-in-rotated-sorted-array-ii.md)
