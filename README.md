@@ -208,3 +208,5 @@ c# 日常刷题
 104.[largest-rectangle-in-histogram](101-200/104.largest-rectangle-in-histogram.md)
 
 105.[partition-list](101-200/105.partition-list.md)
+
+106.[group-anagrams](101-200/106.group-anagrams.md)
