@@ -226,3 +226,5 @@ c# 日常刷题
 113.[jump-game-ii](101-200/113.jump-game-ii.md)
 
 114.[sudoku-solver](101-200/114.sudoku-solver.md)
+
+115.[happy-number](101-200/115.happy-number.md)
