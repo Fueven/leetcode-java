@@ -228,3 +228,5 @@ c# 日常刷题
 114.[sudoku-solver](101-200/114.sudoku-solver.md)
 
 115.[happy-number](101-200/115.happy-number.md)
+
+116.[remove-linked-list-elements](101-200/116.remove-linked-list-elements.md)
