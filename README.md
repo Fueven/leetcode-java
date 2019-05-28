@@ -236,3 +236,5 @@ c# 日常刷题
 118.[customers-who-never-order](101-200/118.customers-who-never-order.md)
 
 119.[count-primes](101-200/119.count-primes.md)
+
+120.[triangle](101-200/120.triangle.md)
