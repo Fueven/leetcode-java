@@ -240,3 +240,5 @@ c# 日常刷题
 120.[triangle](101-200/120.triangle.md)
 
 121.[path-sum-ii](101-200/121.path-sum-ii.md)
+
+122.[insertion-sort-list](101-200/122.insertion-sort-list.md)
