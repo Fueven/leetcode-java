@@ -242,3 +242,5 @@ c# 日常刷题
 121.[path-sum-ii](101-200/121.path-sum-ii.md)
 
 122.[insertion-sort-list](101-200/122.insertion-sort-list.md)
+
+123.[sort-list](101-200/123.sort-list.md)
