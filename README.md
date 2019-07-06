@@ -248,3 +248,5 @@ c# 日常刷题
 124.[maximum-gap](101-200/124.maximum-gap.md)
 
 125.[largest-number](101-200/125.largest-number.md)
+
+126.[contains-duplicate-iii](101-200/126.contains-duplicate-iii.md)
