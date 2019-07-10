@@ -250,3 +250,5 @@ c# 日常刷题
 125.[largest-number](101-200/125.largest-number.md)
 
 126.[contains-duplicate-iii](101-200/126.contains-duplicate-iii.md)
+
+127.[valid-anagram](101-200/127.valid-anagram.md)
