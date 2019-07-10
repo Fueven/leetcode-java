@@ -252,3 +252,5 @@ c# 日常刷题
 126.[contains-duplicate-iii](101-200/126.contains-duplicate-iii.md)
 
 127.[valid-anagram](101-200/127.valid-anagram.md)
+
+128.[intersection-of-two-arrays](101-200/128.intersection-of-two-arrays.md)
