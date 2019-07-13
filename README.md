@@ -256,3 +256,5 @@ c# 日常刷题
 128.[intersection-of-two-arrays](101-200/128.intersection-of-two-arrays.md)
 
 129.[wiggle-sort-ii](101-200/129.wiggle-sort-ii.md)
+
+130.[intersection-of-two-arrays-ii](101-200/130.intersection-of-two-arrays-ii.md)
