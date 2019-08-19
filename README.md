@@ -260,3 +260,5 @@ c# 日常刷题
 130.[intersection-of-two-arrays-ii](101-200/130.intersection-of-two-arrays-ii.md)
 
 131.[h-index](101-200/131.h-index.md)
+
+132.[palindrome-partitioning](101-200/132.palindrome-partitioning.md)
